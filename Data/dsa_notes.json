@@ -1,0 +1,70 @@
+{
+    "id": "1",
+    "text_to_embed": "Merge Sort is a divide and conquer algorithm. It divides the array into two halves, and then merges the two sorted halves. Time complexity is O(n log n).",
+    "metadata": {
+        "topic": "Merge Sort"
+    }
+}
+{
+    "id": "2",
+    "text_to_embed": "An array is a collection of items stored at contiguous memory locations. It makes it easier to calculate the position of each element.",
+    "metadata": {
+        "topic": "Arrays"
+    }
+}
+{
+    "id": "3",
+    "text_to_embed": "Binary Search is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half.",
+    "metadata": {
+        "topic": "Binary Search"
+    }
+}
+{
+    "id": "4",
+    "text_to_embed": "A linked list is a linear data structure where elements are not stored at contiguous locations. Elements are linked using pointers.",
+    "metadata": {
+        "topic": "Linked List"
+    }
+}
+{
+    "id": "5",
+    "text_to_embed": "A stack is a linear data structure that follows the Last In First Out (LIFO) principle. It supports two main operations: push and pop.",
+    "metadata": {
+        "topic": "Stack"
+    }
+}
+{
+    "id": "6",
+    "text_to_embed": "A queue is a linear data structure that follows the First In First Out (FIFO) principle. It supports two main operations: enqueue and dequeue.",
+    "metadata": {
+        "topic": "Queue"
+    }
+}
+{
+    "id": "7",
+    "text_to_embed": "A binary tree is a tree data structure in which each node has at most two children, referred to as the left child and the right child.",
+    "metadata": {
+        "topic": "Binary Tree"
+    }
+}
+{
+    "id": "8",
+    "text_to_embed": "A hash table is a data structure that implements an associative array abstract data type, a structure that can map keys to values.",
+    "metadata": {
+        "topic": "Hash Table"
+    }
+}
+{
+    "id": "9",
+    "text_to_embed": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems, storing the results of subproblems to avoid redundant work.",
+    "metadata": {
+        "topic": "Dynamic Programming"
+    }
+}
+{
+    "id": "10",
+    "text_to_embed": "A graph is a data structure that consists of a set of nodes (vertices) and a set of edges that connect pairs of nodes.",
+    "metadata": {
+        "topic": "Graph"
+    }
+}
